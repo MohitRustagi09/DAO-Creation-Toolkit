@@ -6,7 +6,7 @@
 
 The toolkit simplifies the complex process of DAO creation by providing pre-built smart contract templates, governance modules, and front-end integration components — empowering anyone to launch their own **community-driven, transparent, and autonomous organization** in minutes.
 
----
+-
 
 ## 🚀 Key Features
 
