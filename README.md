@@ -176,9 +176,4 @@ Contributions are always welcome!
 
 ---
 
-## 🌍 Vision Statement
-
-> “Empowering communities to govern themselves — one DAO at a time.”
-> The **DAO Creation Toolkit** bridges decentralization and usability, enabling open collaboration, transparency, and community-led innovation.
-
-Would you like me to make a **research/report-style README** version for this (with *Problem Statement*, *Objectives*, *Architecture Diagram*, and *References*) — formatted for **hackathons or academic submission**? It’ll look more like a polished technical report inside the README.
+<img width="1470" height="956" alt="Screenshot 2025-11-01 at 12 12 20 AM" src="https://github.com/user-attachments/assets/20ee6c85-a2ed-472f-a0eb-a6641d57a0f0" />
